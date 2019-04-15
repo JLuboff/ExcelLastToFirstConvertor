@@ -1,0 +1,28 @@
+{
+  "name": "excellasttofirstconvertor",
+  "version": "1.0.0",
+  "description": "Takes in a column of last, first names and convert to first last",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JLuboff/ExcelLastToFirstConvertor.git"
+  },
+  "keywords": [
+    "Excel",
+    "Javascript",
+    "Convertor",
+    "LastToFirst"
+  ],
+  "author": "Jason Luboff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JLuboff/ExcelLastToFirstConvertor/issues"
+  },
+  "homepage": "https://github.com/JLuboff/ExcelLastToFirstConvertor#readme",
+  "dependencies": {
+    "exceljs": "^1.9.0"
+  }
+}
